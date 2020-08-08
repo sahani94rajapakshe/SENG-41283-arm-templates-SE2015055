@@ -1,0 +1,30 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "profiles_SuwaShanthiHospital_name": {
+            "value": null
+        },
+        "frontdoors_hospitalFrontDoor_name": {
+            "value": null
+        },
+        "sites_webserverhospitalSuwaShanthi_name": {
+            "value": null
+        },
+        "servers_dbhospitalsuwashanthi_name": {
+            "value": null
+        },
+        "serverfarms_ASP_hospitalSuwaShanthi_b48b_name": {
+            "value": null
+        },
+        "components_webserverhospitalSuwaShanthi_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___webserverhospitalsuwashanthi_name": {
+            "value": null
+        }
+    }
+}
